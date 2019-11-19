@@ -14,7 +14,7 @@ conda env create --name stim --file environment.yml
 ```
 4. Activate the environment:
 ```console
-conda activate mneflower
+conda activate stim
 ```
 5. Download the pretrained weights for StyleGAN from [here](https://github.com/lernapparat/lernapparat/releases/download/v2019-02-01/karras2019stylegan-ffhq-1024x1024.for_g_all.pt) and copy it in the folder
 
